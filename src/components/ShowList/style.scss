@@ -1,0 +1,29 @@
+.category-wrapp {
+	display: flex;
+	align-items: baseline;
+}
+.category-title {
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 41px;
+	color: #333333;
+	margin-bottom: 25px;
+	span {
+		font-weight: 700;
+		font-size: 30px;
+		line-height: 41px;
+		color: #f83e00;
+	}
+}
+.btn-castom {
+	margin-top: -14px;
+	font-weight: 700 !important;
+	font-size: 30px !important;
+	line-height: 41px !important;
+	color: #f83e00 !important;
+	background-color: #fff !important;
+	border-color: #fff !important;
+}
+.btn-castom:focus {
+	box-shadow: 0 0 0 0.25rem rgba(248, 62, 0, 0.1) !important;
+}
