@@ -1,6 +1,6 @@
-Movie`s info app
+#Movie`s info app
 
-React, TS, redux. rest api, bootstrap, scss
+#React, TS, redux. rest api, bootstrap, scss
 
 ![Screenshot_111](https://user-images.githubusercontent.com/43748738/226100589-74c6b79a-661e-49c8-aadd-82b6c71dcffd.png)
 
