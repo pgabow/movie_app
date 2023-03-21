@@ -1,7 +1,6 @@
 {
-	"name": "js_nl_homework_5.9",
+	"name": "movie_app",
 	"version": "0.1.0",
-	"homepage": "http://wayup.gabow.ru/",
 	"private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.4",
